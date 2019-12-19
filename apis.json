@@ -1,0 +1,66 @@
+{
+    "name": "Habitica",
+    "description": "Habitica is a free habit and productivity app that treats your real life like a game. Habitica can help you achieve your goals to become healthy and happy.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28673-habitica-com.jpg",
+    "tags": [
+        "api provider",
+        "games",
+        "have api",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/habitica\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Habitica",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28673-habitica-com.jpg",
+            "humanURL": "https:\/\/habitica.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/habitica-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/habitica-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/devs.habitica.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/habitrpg"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/habitica.com\/apidoc\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/devs.habitica.com\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/habitica.com\/apidoc\/"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/habitica.com\/apidoc\/#api-Webhook"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/habitica.com"
+        }
+    ]
+}
